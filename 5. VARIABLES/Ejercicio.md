@@ -43,12 +43,14 @@ Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro c
        8 ASIGNAR cal_2
        9 MOSTRAR "ingresar la calificacion 3"
        10 ASIGNAR cal 3
-                  MOSTRAR_Calificacion2
-                  ASIGNAR_Calificacion2
-                  MOSTRAR_Calificacion3
-                  ASIGNAR_Calificacion3
-                  MOSTRAR_Calificacion4
-                  ASIGNAR_Califiacion4
+       11 MOSTRAR "ingresar la calificacion 4"
+       12 ASIGNAR cal 4
+       13 MOSTRAR
+                  
+                  
+                  
+                  
+              
                   IngresarNombreDelAlumno(str)
       
   ![image](https://user-images.githubusercontent.com/113804837/192121770-371e2abf-d5c9-4475-bf36-06ae29ded69c.png)
