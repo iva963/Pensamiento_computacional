@@ -1,1 +1,11 @@
+EJERCICIO EL AREA DE UN RECTANGULO
+1 INICIO
+2 DECLARAR base_(float),altura_(float),area_(float)
+3 MOSTRAR "ingresar base"
+4 ASIGNAR Base
+5  MOSTRAR "ingresar altura"
+6  ASIGNAR altura
+7  ASIGNAR base*altura = area
+8  MOSTRAR area
+9  FIN
 
