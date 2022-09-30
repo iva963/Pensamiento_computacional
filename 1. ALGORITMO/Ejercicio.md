@@ -47,12 +47,15 @@
 ###  Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
 
     TU RESPUESTA AQUI
-
+1. INICIO
+2. DECLARAR:precio inicial,20% más,precio final,resultado
+3. MOSTRAR:precio inal
 
 
 ### DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
 
     TU RESPUESTA AQUI
+    
 
 
 
