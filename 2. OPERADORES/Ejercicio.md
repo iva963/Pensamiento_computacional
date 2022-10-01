@@ -50,7 +50,9 @@ notifica que ha sido acreedor al bono de puntualidad. Si el empleado tiene
 2 retardos se le suspende un día y si tiene 3 o más retardos se le da de
 baja al final del mes. Describe tal situación usando operadores
 relacionales.
-
+30 && "PUNTUAL" = BONO
+>=2 = "SUSPENCION"
+>=3 = "BAJA"
       
 
 Reto. Analiza el problema y selecciona la opción que consideres que lo
@@ -61,7 +63,7 @@ mayor que “F”. ¿Cuál es el menor de todos?
 
       "G"
 
-3^2 – (10/(8-4))+9 > 100 
+3^2 – (10/(8-4))+9 > 100 FALSO FALSE
 
       
 
@@ -70,5 +72,5 @@ Reto. Evalúa las siguientes expresiones a la derecha (FALSO O VERDADERO).
 1) (45<120 OR 12<120) =VERDADERO TRUE
 2) (6! =6) && (12>22)) =FALSO FALSE
 3) ¬ (128<145 && 12>9) =VERDADERO TRUE
-4) “Daniela”< >”DANIELA” =FALSO FALSE
-5) 10*20< >210 =FALSO FALSE
+4) “Daniela”< >”DANIELA” =VERDADERO TRUE
+5) 10*20< >210 =VERDADERO TRUE
