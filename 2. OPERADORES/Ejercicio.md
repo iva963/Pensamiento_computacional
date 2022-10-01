@@ -51,7 +51,7 @@ notifica que ha sido acreedor al bono de puntualidad. Si el empleado tiene
 baja al final del mes. Describe tal situación usando operadores
 relacionales.
 
-      TU RESPUESTA AQUI
+      
 
 Reto. Analiza el problema y selecciona la opción que consideres que lo
 resuelve:
@@ -63,7 +63,7 @@ mayor que “F”. ¿Cuál es el menor de todos?
 
 3^2 – (10/(8-4))+9 > 100 
 
-      TU RESPUESTA AQUI
+      
 
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha (FALSO O VERDADERO).
