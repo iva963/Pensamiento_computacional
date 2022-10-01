@@ -1,8 +1,8 @@
 En informática los datos se guardan en casillas (celdas) de memoria de la computadora, las celdas tienen un nombre, identificadores.
 
-Los identificadores representan los datos de un prohrama.
+Los identificadores representan los datos de un programa.
 
-Hay dos tipos de identificadores: constntes y variables.
+Hay dos tipos de identificadores: constantes y variables.
 ## CONSTANTES
 Es un dato numérico o alfanumérico que no cambia de valor durante la ejecución de un programa, por ejemplo en número Pi.
 
