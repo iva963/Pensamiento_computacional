@@ -25,7 +25,7 @@
 		Fin Si
 	Fin Si
 	
-FinAlgoritmo
+	FinAlgoritmo
       
       
       
